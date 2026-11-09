@@ -7,7 +7,7 @@ Programma per gestire e compilare i turni del personale.
 | Sistema | Download |
 |---|---|
 | **Windows** | [Scarica TurniNETor per Windows](https://github.com/Giogolo/TurniNETor-versioni/releases/latest/download/TurniNETor_W_installer.exe) |
-| **Linux** | [Versioni per Linux](https://github.com/Giogolo/TurniNETor-versioni/releases?q=linux&expanded=true): aprire la prima in alto e scaricare `TurniNETor_Lx.tar.gz` |
+| **Linux** | [Scarica TurniNETor per Linux](https://github.com/Giogolo/TurniNETor-versioni/releases/download/linux/TurniNETor_Lx.tar.gz) |
 
 Il programma è gratuito. I dati restano sul computer in cui si usa: il programma si collega a internet solo per controllare gli aggiornamenti.
 
@@ -24,8 +24,12 @@ Gli aggiornamenti si installano dal programma stesso: **Menu > Aggiorna il progr
 
 ## Installazione su Linux
 
-1. Estrarre `TurniNETor_Lx.tar.gz` nella cartella desiderata.
-2. Nella cartella estratta, avviare `TurniNETor_Lx` (oppure `installa.sh` per avere l'icona sul desktop).
+1. Aprire la cartella dei download, fare clic destro sul file scaricato `TurniNETor_Lx.tar.gz` e scegliere **Estrai qui**.
+2. Spostare la cartella `TurniNETor_Lx` appena creata dove si vuole tenere il programma (ad esempio nella cartella personale).
+3. Aprire la cartella `TurniNETor_Lx` e fare doppio clic su `installa.sh`; se viene chiesto, scegliere **Esegui nel terminale**.
+4. Sul desktop e nel menu delle applicazioni (sotto Ufficio) compare l'icona **TurniNETor Lx**: da lì si avvia il programma.
+
+Non serve installare altro. Gli aggiornamenti si installano dal programma stesso: **Menu > Aggiorna il programma…**
 
 ## Condividere il programma
 
